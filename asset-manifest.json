@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jurysoft-API-store/static/css/main.7f56a515.css",
+    "main.js": "/Jurysoft-API-store/static/js/main.22c21608.js",
+    "index.html": "/Jurysoft-API-store/index.html",
+    "main.7f56a515.css.map": "/Jurysoft-API-store/static/css/main.7f56a515.css.map",
+    "main.22c21608.js.map": "/Jurysoft-API-store/static/js/main.22c21608.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f56a515.css",
+    "static/js/main.22c21608.js"
+  ]
+}
